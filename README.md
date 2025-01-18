@@ -8,8 +8,8 @@ and I strive to keep up with the latest trends and technologies in the web devel
 
 About Me 👨‍💻
 
-🎓 Currently pursuing a BCA at Arka Jain University, specializing in web development.
-🚀 Completed 200+ DSA problems on LeetCode and a 6-month intensive DSA course.
+- 🎓 Currently pursuing a BCA at Arka Jain University, specializing in web development.
+- 🚀 Completed 200+ DSA problems on LeetCode and a 6-month intensive DSA course.
 
 ✨ What I love doing:
 
