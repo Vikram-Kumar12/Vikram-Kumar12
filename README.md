@@ -9,31 +9,29 @@ and I strive to keep up with the latest trends and technologies in the web devel
 About Me 👨‍💻
 
 🎓 Currently pursuing a BCA at Arka Jain University, specializing in web development.
-
 🚀 Completed 200+ DSA problems on LeetCode and a 6-month intensive DSA course.
 
 ✨ What I love doing:
 
 . Crafting beautiful and responsive websites using HTML, CSS, JavaScript, and modern frameworks like React and Tailwind CSS.
-
 . Building interactive web applications that provide seamless user experiences.
 
 🔨 Tech Stack
+
 . **Languages**: HTML, CSS, JavaScript, Java (DSA)
-
 . **Frontend**: React, Tailwind CSS, GSAP, Locomotive Scroll
-
 . **Tools**: Git, GitHub, VS Code
 
 🌐 Projects
-.Movie App – Built in React using the TMDB API, enabling users to explore trending movies and search for actors.
+
+**Movie App** – Built in React using the TMDB API, enabling users to explore trending movies and search for actors.
 Cloned Websites:
 
 **Refokus.com** – Showcasing animations in React for a design-focused look.
-
 **Obysagency.com** , and **ExoApe.com** – Built with HTML, CSS, JavaScript, and GSAP, integrating unique effects like infinite scroll and the "parallax" effect.
 
 🌍 Portfolio
+
 . Check out my portfolio to see more about my work and projects: My Portfolio
 
 🚀 Next, I am diving into **backend development** to strengthen my full-stack skills.  
@@ -41,9 +39,8 @@ Cloned Websites:
 🎯 My goal is to build **dynamic and scalable applications** by learning **Node.js**, **Express.js**, and **database management** with **MongoDB** and **SQL**.  
 
 📫 Connect with Me
+
 LinkedIn: https://www.linkedin.com/in/vikram-kumar-55bbab2aa/
-
 Email: vikramkumar0120arav@gmail.com
-
 Thanks for visiting! 😊
 
