@@ -24,12 +24,13 @@ About Me 👨‍💻
 - **School Website** - A modern, responsive school website built using ReactJS, Tailwind CSS, and JavaScript. It includes sections for student info, teachers, notice board, gallery, and contact form.
 - **Car Solution** - Developed a responsive and visually engaging web application that helps users find their ideal car based on preferences such as brand, budget, and features.
   
-- **Cloned Websites** :
+- **Cloned Websites** 
 - **Refokus.com** – Showcasing animations in React for a design-focused look.
 - **Obysagency.com** , and **ExoApe.com** – Built with HTML, CSS, JavaScript, and GSAP, integrating unique effects like infinite scroll and the "parallax" effect.
 
 🌍 Portfolio
-- Check out my portfolio to see more about my work and projects: My Portfolio
+- Check out my portfolio to see more about my work and projects:
+    - [My Portfolio](https://my-portfolio-five-pied-27.vercel.app/all-projects)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vikram-Kumar12&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
