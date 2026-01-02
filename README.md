@@ -40,7 +40,7 @@ I build solutions for clients and explore the bleeding edge of **Generative AI**
 #### 2. Personal Development
 | Project | Description |
 | :--- | :--- |
-| **[Sellnbuy][(https://digitalguru.app](https://sellnbuy.vercel.app/))** | <ul><li>Architected a full-stack marketplace using **React**, **Tailwind CSS**, **Node.js**, **Express**, and **MongoDB** for seamless product buying and selling.</li><li>Integrated secure authentication, product management, category filters, and enhanced REST APIs to ensure smooth data flow.</li><li>Improved application performance through lazy loading, efficient state handling, and deployment on Render.</li></ul> |
+| **[Sellnbuy](https://sellnbuy.vercel.app/))** | <ul><li>Architected a full-stack marketplace using **React**, **Tailwind CSS**, **Node.js**, **Express**, and **MongoDB** for seamless product buying and selling.</li><li>Integrated secure authentication, product management, category filters, and enhanced REST APIs to ensure smooth data flow.</li><li>Improved application performance through lazy loading, efficient state handling, and deployment on Render.</li></ul> |
 | **[Review Collection](https://www.review-collection.space/)** | <ul><li>Created a full-stack feedback system using **React**, **Tailwind CSS**, **Node.js**, **Express**, and **MongoDB** for structured user review collection.</li><li>Built secure REST APIs with authentication and CRUD capabilities, enabling reliable, real-time data updates.</li><li>Developed modular UI components with validation, robust state handling, and smooth animation effects.</li></ul> |
 | **[LeetLab](https://res.cloudinary.com/djhdbide5/video/upload/v1750854764/audo_enhanced_LeetLab_-_Google_Chrome_2025-06-01_22-01-08_1_qdtete.mp4)** | <ul><li>Developed a coding practice platform featuring multi-language execution integrated through the **Judge0 API**.</li><li>Delivered a clean, responsive interface using **React**, **Tailwind CSS**, **Framer Motion** and to enhance user interaction.</li><li>Implemented a backend with **Node.js**, **Express**, and **PostgreSQL ** to manage users, submissions, and problem data effectively.</li></ul> |
 ---
@@ -48,8 +48,8 @@ I build solutions for clients and explore the bleeding edge of **Generative AI**
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikram-Kumar12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Kumar12&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikram-Kumar12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Kumar12&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vikram-Kumar12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
@@ -66,12 +66,7 @@ I build solutions for clients and explore the bleeding edge of **Generative AI**
   <a href="mailto:vikramkumar0120arav@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-five-pied-27.vercel.app/all-projects">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+  <a href="https://vikramk.space">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=world&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=Vikram-Kumar12&icon=0&color=0" />
 </div>
