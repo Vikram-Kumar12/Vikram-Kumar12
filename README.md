@@ -35,7 +35,7 @@ I build solutions for clients and explore the bleeding edge of **Generative AI**
 #### 1. Real-World Client Work
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[Digital Guru](https://digitalguru.app)** | <ul><li>Engineered a responsive and animation-rich agency website using React.js, Tailwind CSS, Framer Motion, and GSAP.</li><li>Improved user engagement by integrating streamlined animations, interactive UI components, and accessibility enhancements.</li><li>Translated design prototypes into scalable, reusable components and collaborated with the team to deliver high-quality features on time.</li></ul> | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![GSAP](https://img.shields.io/badge/-GSAP-green?style=flat&logo=greensock) ![Framer](https://img.shields.io/badge/-Framer-black?style=flat&logo=framer) |
+| **[Digital Guru](https://digitalguru.app)** | <ul><li>Engineered a responsive and animation-rich agency website using React.js, Tailwind CSS, Framer Motion, and GSAP.</li><li>Improved user engagement by integrating streamlined animations, interactive UI components, and accessibility enhancements.</li><li>Translated design prototypes into scalable, reusable components and collaborated with the team to deliver high-quality features on time.</li></ul> | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![GSAP](https://img.shields.io/badge/-GSAP-green?style=flat&logo=greensock) | ![Framer](https://img.shields.io/badge/-Framer-black?style=flat&logo=framer) |
 
 #### 2. Personal Development
 | Project | Description | Tech |
