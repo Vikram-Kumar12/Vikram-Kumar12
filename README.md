@@ -35,14 +35,14 @@ I build solutions for clients and explore the bleeding edge of **Generative AI**
 #### 1. Real-World Client Work
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[Digital Guru (Agency)](https://digitalguru.app)** | A fully animated, production-grade agency website built for **Digital Mato**. Features complex animations and high-performance optimizations. | React, GSAP, Tailwind |
+| **[Digital Guru](https://digitalguru.app)** | <ul><li>Engineered a responsive and animation-rich agency website using React.js, Tailwind CSS, Framer Motion, and GSAP.</li><li>Improved user engagement by integrating streamlined animations, interactive UI components, and accessibility enhancements.</li><li>Translated design prototypes into scalable, reusable components and collaborated with the team to deliver high-quality features on time.</li></ul> | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![GSAP](https://img.shields.io/badge/-GSAP-green?style=flat&logo=greensock) ![Framer](https://img.shields.io/badge/-Framer-black?style=flat&logo=framer) |
 
 #### 2. Personal Development
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[LeetLab](https://github.com/Vikram-Kumar12)** | A coding practice platform simulating real-world environments. Includes a custom code execution engine. | MERN, Docker |
-| **[Blog Agent AI](https://github.com/Vikram-Kumar12)** | An autonomous agent that researches topics and publishes formatted blogs directly to Hashnode. | Python, GenAI, API |
-| **[Car Solution](https://car-website-f262.vercel.app/)** | A recommendation engine helping users find cars based on budget and feature preferences. | React, JS |
+| **SellNBuy**<br>*(E-Commerce)* | <ul><li>Architected a full-stack marketplace using React, Tailwind CSS, Node.js, Express, and MongoDB for seamless product buying and selling.</li><li>Integrated secure authentication, product management, category filters, and enhanced REST APIs to ensure smooth data flow.</li><li>Improved application performance through lazy loading, efficient state handling, and deployment on Render.</li></ul> | ![MERN](https://img.shields.io/badge/-MERN-black?style=flat&logo=mongodb) |
+| **Review Collection**<br>*(Feedback System)* | <ul><li>Created a full-stack feedback system using React, Node.js, and MongoDB for structured user review collection.</li><li>Built secure REST APIs with authentication and CRUD capabilities, enabling reliable, real-time data updates.</li><li>Developed modular UI components with validation, robust state handling, and smooth animation effects.</li></ul> | ![Node](https://img.shields.io/badge/-Node-green?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) |
+| **[LeetLab](https://github.com/Vikram-Kumar12)**<br>*(Coding Platform)* | <ul><li>Developed a coding practice platform featuring multi-language execution integrated through the Judge0 API.</li><li>Delivered a clean, responsive interface using React, Tailwind CSS, and Framer Motion to enhance user interaction.</li><li>Implemented a backend with Node.js, Express, and PostgreSQL to manage users, submissions, and problem data effectively.</li></ul> | ![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat&logo=postgresql) ![Judge0](https://img.shields.io/badge/-Judge0-orange?style=flat) |
 
 ---
 
