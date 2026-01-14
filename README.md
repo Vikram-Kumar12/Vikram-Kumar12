@@ -45,18 +45,6 @@ I build solutions for clients and explore the bleeding edge of **Generative AI**
 | **[LeetLab](https://res.cloudinary.com/djhdbide5/video/upload/v1750854764/audo_enhanced_LeetLab_-_Google_Chrome_2025-06-01_22-01-08_1_qdtete.mp4)** | <ul><li>Developed a coding practice platform featuring multi-language execution integrated through the **Judge0 API**.</li><li>Delivered a clean, responsive interface using **React**, **Tailwind CSS**, **Framer Motion** and to enhance user interaction.</li><li>Implemented a backend with **Node.js**, **Express**, and **PostgreSQL ** to manage users, submissions, and problem data effectively.</li></ul> |
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikram-Kumar12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Kumar12&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vikram-Kumar12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
